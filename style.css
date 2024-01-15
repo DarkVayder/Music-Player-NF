@@ -2,6 +2,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Varela+Round&display=swap');
 
 body {
+    background-image: url(wallpaper.jpg);
     background-color: rgb(134, 137, 134);
     font-family: 'Varela Round', sans-serif;
 }
