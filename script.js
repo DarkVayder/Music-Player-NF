@@ -13,6 +13,7 @@ let songs = [
     {songName: "The Search", filePath: "Songs/02.mp3", coverPath: "cover.jpg"},
     {songName: "Why", filePath: "Songs/03.mp3", coverPath: "cover.jpg"},
     {songName: "Hope", filePath: "Songs/04.mp3", coverPath: "cover.jpg"},
+    {songName: "Time", filePath: "Songs/05.mp3", coverPath: "cover.jpg"},
 ];
 
 songItems.forEach((element, i)=>{ 
